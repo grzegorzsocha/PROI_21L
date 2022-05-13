@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="MainWindow">
+    <file>img/chess_board.png</file>
+  </qresource>
+</RCC>

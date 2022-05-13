@@ -1,0 +1,7 @@
+Pionki na górze: białe
+Przeciwnik: drugi gracz
+C2->C4
+D7->D5
+B2->B4
+E8->A4
+Wygrał gracz z czarnymi pionkami
